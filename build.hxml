@@ -1,0 +1,9 @@
+-cp Source
+-main CompileOnly
+--no-output
+-lib lime
+-lib openfl
+-lib openfl-native
+-lib actuate
+--macro allowPackage("flash")
+-cpp No output

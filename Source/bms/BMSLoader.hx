@@ -1,0 +1,5 @@
+package bms;
+
+class BMSLoader
+{
+}
